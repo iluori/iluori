@@ -1,6 +1,8 @@
-<img src="saludoBienvenida.png" width="800">
+<p align="center">
+  <img src="saludoBienvenida.png" width="500">
+</p>
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente en formación.
+Estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente en formación.
 
 ## 👩‍💻 Sobre mí
 Ahora mismo estoy aprendiendo desarrollo web haciendo ejercicios y probando cosas nuevas. Me gusta entender lo que estoy programando y mejorar poco a poco, tanto el código como mi forma de trabajar.
