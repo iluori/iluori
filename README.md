@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="saludoBienvenida.png" width="500">
+  <img src="saludoBienvenida.png" width="800">
 </p>
 
 Estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente en formación.
