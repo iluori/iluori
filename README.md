@@ -1,16 +1,15 @@
-## Hi there 👋
+# Iluminada 👋
 
-<!--
-**iluori/iluori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente en formación.
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mí
+Ahora mismo estoy aprendiendo desarrollo web haciendo ejercicios y probando cosas nuevas. Me gusta entender lo que estoy programando y mejorar poco a poco, tanto el código como mi forma de trabajar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+Java ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)  
+TypeScript ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)  
+HTML ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+CSS ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+MariaDB ![MariaDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg)  
+Figma ![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg)  
+Git ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
