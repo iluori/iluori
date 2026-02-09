@@ -1,4 +1,4 @@
-<img src="saludoBienvenida.png" width="300">
+<img src="saludoBienvenida.png" width="800">
 
 🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW) y actualmente en formación.
 
