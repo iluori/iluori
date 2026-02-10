@@ -6,7 +6,7 @@
 
 
 ## 👩‍💻 Sobre mí
-Ahora mismo estoy aprendiendo desarrollo web haciendo ejercicios y probando cosas nuevas. Me gusta entender lo que estoy programando y mejorar poco a poco, tanto el código como mi forma de trabajar.
+Ahora mismo estoy haciendo desarrollo web a base de programar y probando cosas nuevas. Me gusta entender lo que programo y mejorar poco a poco, tanto codificando como en mi forma de trabajar.
 
 ## 🚀 Qué estoy aprendiendo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
