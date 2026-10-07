@@ -6,7 +6,7 @@
 
 
 ## 👩‍💻 Sobre mí
-Profesional, con ganas de aprender y comprometida. Ahora mismo estoy haciendo desarrollo web a base de programar y probando cosas nuevas. Me gusta entender lo que programo y mejorar poco a poco, tanto codificando como en mi forma de trabajar. 
+Estudiante de Desarrollo de Aplicaciones Web con experiencia práctica en Java, HTML, CSS y bases de datos. Actualmente ampliando conocimientos en PHP, JavaScript y Git. Me gusta entender lo que programo, trabajar de forma organizada y mejorar en cada proyecto.
 
 ## Competencias profesionales
 - Toma de decisiones: Analizo diferentes opciones antes de elegir la solución más adecuada, priorizando claridad y eficiencia.
@@ -27,3 +27,4 @@ Profesional, con ganas de aprender y comprometida. Ahora mismo estoy haciendo de
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
